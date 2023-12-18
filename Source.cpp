@@ -8,8 +8,14 @@ int sum(int a, int b, int c, int d)
 void main1()
 {
 
+
 }
 
+void dev()
+{
+
+
+}
 
 int main() 
 {
